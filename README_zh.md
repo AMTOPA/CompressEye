@@ -3,7 +3,7 @@
 
 <a href="README_zh.md">简体中文</a> | <a href="README.md">ENGLISH</a>
 
-[![GitHub release](https://img.shields.io/github/release/AMTOPA/CompressEyeo.svg)](https://github.com/AMTOPA/CompressEyeo/releases)
+[![GitHub release](https://img.shields.io/github/release/AMTOPA/CompressEye.svg)](https://github.com/AMTOPA/CompressEyeo/releases)
 [![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Platform](https://img.shields.io/badge/platform-Windows-blue)](https://www.microsoft.com/windows)
 [![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg)](https://github.com/AMTOPA/CompressEyeo/graphs/commit-activity)
