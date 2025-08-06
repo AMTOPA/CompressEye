@@ -30,7 +30,7 @@ A demo implementation of **Compressive Sensing (CS)** for image reconstruction u
 1. Clone this repository:
    
    ```bash
-   git clone https://github.com/your-username/cs-image-dct.git
+   git clone https://github.com/AMTOPA/CompressEye.git
    cd cs-image-dct
    ```
 
@@ -43,7 +43,7 @@ A demo implementation of **Compressive Sensing (CS)** for image reconstruction u
 3. Run the script:
    
    ```bash
-   python cs_image_dct.py
+   python main.py
    ```
    
    🖼️ Results

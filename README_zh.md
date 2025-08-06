@@ -30,7 +30,7 @@
 1. 克隆仓库：
    
    ```bash
-   git clone https://github.com/your-username/cs-image-dct.git
+   git clone https://github.com/AMTOPA/CompressEye.git
    cd cs-image-dct
    ```
 2. 安装依赖：
@@ -41,7 +41,7 @@
 3. 运行脚本：
    
    ```bash
-   python cs_image_dct.py
+   python main.py
    ```
    
    🖼️ 重建结果
